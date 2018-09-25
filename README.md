@@ -8,7 +8,7 @@ Le principe est simple, c'est un "runner" donc le but et de faire le meilleur sc
 
 - L'astéroïd que le joueur contrôle se déplace en ligne droite.
 
-- L'appui sur un bouton (peu importe la couleur) fera tourner l'astérois autour de la planète la plus proche.
+- L'appui sur un bouton (peu importe la couleur) fera tourner l'astéroïd autour de la planète la plus proche.
 
 - Au relâchement du bouton, l'astéroïd sort de l'orbite de la planète et repars en ligne droite.
 

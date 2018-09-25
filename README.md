@@ -1,4 +1,4 @@
-Le dossier Assets/Scripts contient tous les scripts que j'ai écrits lors de la création de mon jeu.
+Le dossier Assets/Script contient tous les scripts que j'ai écrits lors de la création de mon jeu.
 
 Il y a aussi 3 screenshots de mon jeu que vous pouvez consulter.
 
